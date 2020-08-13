@@ -195,6 +195,3 @@
 .message-row:nth-child(6){
     animation-delay: 8s;
 }
-.message-row:last-child{
-    animation-delay: 10s;
-}
