@@ -1,0 +1,30 @@
+.more-screen .icon-row{
+    padding: 0px 8px 38px 8px;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.more-suggestion__title{
+    margin-top: 30px;
+    font-weight: 600;
+}
+.more-suggestion__icons{
+    display: flex;
+
+}
+.more-suggestion__icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 23px 0px 13px;
+    margin-top: 30px;
+}
+.more-suggestion__icon img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 13px;
+    border-radius: 10px;
+}
+.more-suggestion__icon-text{
+    color: rgba(0,0,0,0.5);
+    font-weight: 600;
+    font-size: 15px;
+}
